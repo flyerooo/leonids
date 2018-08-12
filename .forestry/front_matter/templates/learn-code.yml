@@ -1,0 +1,12 @@
+---
+label: learn code
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: python
+  name: python
+  description: learn python
+  hidden: false
+  config:
+    required: false
