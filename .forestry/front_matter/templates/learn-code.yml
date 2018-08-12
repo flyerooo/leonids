@@ -10,3 +10,5 @@ fields:
   hidden: false
   config:
     required: false
+pages:
+- forestry-first-blog.md
