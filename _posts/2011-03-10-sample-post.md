@@ -10,7 +10,7 @@ tags:
 - jekyll
 - tutorial
 comments: true
-pinned: true
+pinned: false
 image:
   feature: sample-image-2.jpg
 
