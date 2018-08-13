@@ -2,7 +2,7 @@
 title: Create Posts
 comments: true
 date: 2018-08-13 19:41:07 +0000
-layout: ''
+layout: post
 excerpt: ''
 tags: []
 image:
