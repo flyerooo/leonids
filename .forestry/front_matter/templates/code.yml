@@ -25,3 +25,5 @@ fields:
 - type: field_group_list
 - type: blocks
 - type: include
+pages:
+- _posts/front-matter.md
