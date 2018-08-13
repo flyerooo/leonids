@@ -1,0 +1,15 @@
+---
+label: test1
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: title
+- type: textarea
+  hidden: false
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: datetime
