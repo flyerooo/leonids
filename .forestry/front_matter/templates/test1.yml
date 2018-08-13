@@ -14,4 +14,4 @@ fields:
       format: markdown
 - type: datetime
 pages:
-- _posts/1.md
+- _posts/2018-08-13-1.md
