@@ -1,7 +1,7 @@
 ---
 label: Sample Post
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -27,7 +27,7 @@ fields:
   label: Comments
   type: boolean
   hidden: false
-  default: ''
+  default: true
 - name: image
   label: Image
   type: field_group
