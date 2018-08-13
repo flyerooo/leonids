@@ -44,3 +44,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _posts/create-posts.md
