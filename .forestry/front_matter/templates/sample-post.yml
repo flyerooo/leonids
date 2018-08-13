@@ -45,4 +45,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/create-posts.md
+- _posts/2018-08-13-create-posts.md
