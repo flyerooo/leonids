@@ -1,0 +1,27 @@
+---
+label: code
+hide_body: false
+is_partial: false
+fields:
+- type: text
+- type: textarea
+- type: number
+- type: boolean
+- type: select
+  config:
+    source:
+      type: datafiles
+- type: datetime
+- type: color
+  config:
+    color_format: Hex
+- type: tag_list
+- type: list
+- type: color
+  config:
+    color_format: Hex
+- type: image_gallery
+- type: field_group
+- type: field_group_list
+- type: blocks
+- type: include
